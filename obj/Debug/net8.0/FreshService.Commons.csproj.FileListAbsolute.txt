@@ -1,0 +1,12 @@
+C:\Users\fcorreal_admin\source\repos\FreshService.Commons\bin\Debug\net8.0\FreshService.Commons.deps.json
+C:\Users\fcorreal_admin\source\repos\FreshService.Commons\bin\Debug\net8.0\FreshService.Commons.dll
+C:\Users\fcorreal_admin\source\repos\FreshService.Commons\bin\Debug\net8.0\FreshService.Commons.pdb
+C:\Users\fcorreal_admin\source\repos\FreshService.Commons\obj\Debug\net8.0\FreshService.Commons.csproj.AssemblyReference.cache
+C:\Users\fcorreal_admin\source\repos\FreshService.Commons\obj\Debug\net8.0\FreshService.Commons.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fcorreal_admin\source\repos\FreshService.Commons\obj\Debug\net8.0\FreshService.Commons.AssemblyInfoInputs.cache
+C:\Users\fcorreal_admin\source\repos\FreshService.Commons\obj\Debug\net8.0\FreshService.Commons.AssemblyInfo.cs
+C:\Users\fcorreal_admin\source\repos\FreshService.Commons\obj\Debug\net8.0\FreshService.Commons.csproj.CoreCompileInputs.cache
+C:\Users\fcorreal_admin\source\repos\FreshService.Commons\obj\Debug\net8.0\FreshService.Commons.dll
+C:\Users\fcorreal_admin\source\repos\FreshService.Commons\obj\Debug\net8.0\refint\FreshService.Commons.dll
+C:\Users\fcorreal_admin\source\repos\FreshService.Commons\obj\Debug\net8.0\FreshService.Commons.pdb
+C:\Users\fcorreal_admin\source\repos\FreshService.Commons\obj\Debug\net8.0\ref\FreshService.Commons.dll
